@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Mar 15 19:09:56 CST 2015:
+正在使用类加载程序 sun.misc.Launcher$AppClassLoader@4554617c 引导数据库
+目录 /Users/administrasion/Documents/workspace/SoftwareEngineering/NBA_Server/NBA_DB 中的 Derby 版本 The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546) 实例 a816c00e-014c-1d20-44e8-000003135c10
+已从 file:/usr/local/javadb/lib/derby.jar 加载
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_25-b17
+user.dir=/Users/administrasion/Documents/workspace/SoftwareEngineering/NBA_Server
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.10.2
+derby.system.home=null
+数据库类加载程序已启动 - derby.database.classpath=''
